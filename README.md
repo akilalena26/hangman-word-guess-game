@@ -1,3 +1,4 @@
+TO CREATE A HANGMAN GAME THROUGH PYTHON CODING.
 1. Start:
    - Import libraries
    - Display welcome message and initial hangman stage
